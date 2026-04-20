@@ -1,7 +1,8 @@
-Fastapi
+fastapi
 uvicorn
-pydantic 
+pydantic
 stripe
 shippo
 python-multipart
 gunicorn
+httpx
